@@ -1,0 +1,7 @@
+
+### Instructions for Uploading to GitHub
+
+1. **Create a new repository on GitHub**.
+2. **Clone the repository** to your local machine:
+   ```bash
+   git clone https://github.com/hritikranjan1/CodeClauseInternship_Hand-Written-Digit-Recognization .git
